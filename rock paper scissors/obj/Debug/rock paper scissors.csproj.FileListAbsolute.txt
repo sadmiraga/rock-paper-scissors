@@ -1,0 +1,10 @@
+C:\Users\vela\Desktop\skola\Hrastnik\OOP\rock paper scissors\rock paper scissors\obj\Debug\rock paper scissors.csprojAssemblyReference.cache
+C:\Users\vela\Desktop\skola\Hrastnik\OOP\rock paper scissors\rock paper scissors\obj\Debug\rock_paper_scissors.Properties.Resources.resources
+C:\Users\vela\Desktop\skola\Hrastnik\OOP\rock paper scissors\rock paper scissors\obj\Debug\rock paper scissors.csproj.GenerateResource.cache
+C:\Users\vela\Desktop\skola\Hrastnik\OOP\rock paper scissors\rock paper scissors\obj\Debug\rock paper scissors.csproj.CoreCompileInputs.cache
+C:\Users\vela\Desktop\skola\Hrastnik\OOP\rock paper scissors\rock paper scissors\bin\Debug\rock paper scissors.exe.config
+C:\Users\vela\Desktop\skola\Hrastnik\OOP\rock paper scissors\rock paper scissors\bin\Debug\rock paper scissors.exe
+C:\Users\vela\Desktop\skola\Hrastnik\OOP\rock paper scissors\rock paper scissors\bin\Debug\rock paper scissors.pdb
+C:\Users\vela\Desktop\skola\Hrastnik\OOP\rock paper scissors\rock paper scissors\obj\Debug\rock paper scissors.exe
+C:\Users\vela\Desktop\skola\Hrastnik\OOP\rock paper scissors\rock paper scissors\obj\Debug\rock paper scissors.pdb
+C:\Users\vela\Desktop\skola\Hrastnik\OOP\rock paper scissors\rock paper scissors\obj\Debug\rock_paper_scissors.Form1.resources
